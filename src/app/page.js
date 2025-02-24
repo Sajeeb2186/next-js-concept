@@ -1,8 +1,8 @@
-export default function Home() {
-  return;
-  <main>
-    <h2>sajeeb</h2>
-
-    
-  </main>;
+export default function page() {
+  return (
+    <div>
+      
+      <h2> This is home page .</h2>
+    </div>
+  );
 }
