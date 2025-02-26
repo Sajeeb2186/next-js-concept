@@ -38,7 +38,12 @@ export default function Navbar() {
         {
             title:"Blog",
             path:"/blog"
-        }
+        },
+        {
+            title:"Services",
+            path:"/service"
+        },
+        
         
     ]
 

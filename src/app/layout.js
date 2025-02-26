@@ -31,12 +31,12 @@ export default function RootLayout({ children }) {
         
         <Navbar></Navbar>
 
-         <div className="h-screen">
+         <div className="">
          {children}
          </div>
 
 
-        <footer>
+        <footer className="bg-blue-400 text-center">
           <h4>THis is my footer</h4>
         </footer>
 
