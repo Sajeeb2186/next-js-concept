@@ -43,6 +43,10 @@ export default function Navbar() {
             title:"Services",
             path:"/service"
         },
+        {
+            title:"Dashboard",
+            path:"/dashboard"
+        },
         
         
     ]
