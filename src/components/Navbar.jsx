@@ -49,6 +49,19 @@ export default function Navbar() {
 
 
 
+    if(pathname.includes('dashboard'))
+        return (
+       
+            <div className="bg-green-500">
+
+                dashboard navbar
+
+            </div>
+    
+        )
+
+
+
 
   return (
     <div>
